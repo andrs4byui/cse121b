@@ -3,17 +3,17 @@
 /* Step 1 - Setup type tasks - no code required */
 
 /* Step 2 - Variables */
-let fullName = "Andres Soruco";
-let currentYear = 2023;
-let profilePicture = "images/soruco2 - copia.jpg";
+const fullName = "Andres Soruco";
+const currentYear = 2023;
+const profilePicture = "images/soruco2-copia.jpg";
 
 
-/* Step 3 - Element Variables */
-let nameElement = docuemnt.getElementById("name");
-let foodElement = document.getElementById("food");
-let yearElement = document.querySelector("#year");
+/*Step 3 - Element Variables */
 
-let imageElement = docuemnt.getElementsByTagName("img");
+const nameElement = docuemnt.getElementById("name");
+const foodElement = document.getElementById("food");
+const yearElement = document.querySelector("#year");
+const imageElement = docuemnt.getElementsByTagName("img");
 
 /* Step 4 - Adding Content */
 nameElement.innerHTML = `<strong>${fullname}</strong>`;
