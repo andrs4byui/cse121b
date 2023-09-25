@@ -23,7 +23,20 @@ imageElement.setAttribute("alt", `Profile image of ${fullName}`);
 
 /* Step 5 - Array */
 
+let foodArray = ["Pastel de Fideo", " Causa Rellena", " Pasta Alfredo", " Lemon Pie", " Pizza"];
+foodElement.innerHTML = "-" + foodArray;
 
+let anotherFavoriteFood = " Soup creams";
+
+foodArray.push(anotherFavoriteFood);
+foodElement.innerHTML += `<br>-${foodArray}`;
+
+
+foodArray.shift();
+foodElement.innerHTML += `<br>-${foodArray}`;
+
+foodArray.pop();
+foodElement.innerHTML += `<br>-${foodArray}`;
 
 
 
