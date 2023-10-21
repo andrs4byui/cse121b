@@ -2,7 +2,7 @@
 async function fetchData() {
     try {
         // Attempt to fetch data from the specified JSON file (relative path).
-        const response = await fetch("../data/countries.json");
+        const response = await fetch("./data/countries.json");
         // Convert the response to a JavaScript object.
         const result = await response.json();
         // Log the result (data) to the console for debugging purposes.
