@@ -1,0 +1,268 @@
+[
+    {
+        "country": "United States",
+        "capital": "Washington, D.C.",
+        "languages": ["English"],
+        "features": [
+            {
+                "name": "Land of the Free",
+                "imagePath": "default.jpg"
+            },
+            {
+                "name": "Hollywood",
+                "imagePath": "default.jpg"
+            },
+            {
+                "name": "Diverse Cuisine",
+                "imagePath": "default.jpg"
+            }
+        ]
+    },
+    {
+        "country": "United Kingdom",
+        "capital": "London",
+        "languages": ["English"],
+        "features": [
+            {
+                "name": "Historic Landmarks",
+                "imagePath": "default.jpg"
+            },
+            {
+                "name": "Royalty",
+                "imagePath": "default.jpg"
+            },
+            {
+                "name": "Fish and Chips",
+                "imagePath": "default.jpg"
+            }
+        ]
+    },
+    {
+        "country": "France",
+        "capital": "Paris",
+        "languages": ["French"],
+        "features": [
+            {
+                "name": "Eiffel Tower",
+                "imagePath": "eiffel_tower.jpg"
+            },
+            {
+                "name": "Wine and Cheese",
+                "imagePath": "wine_and_cheese.jpg"
+            },
+            {
+                "name": "Fashion",
+                "imagePath": "fashion.jpg"
+            }
+        ]
+    },
+    {
+        "country": "Japan",
+        "capital": "Tokyo",
+        "languages": ["Japanese"],
+        "features": [
+            {
+                "name": "Sushi",
+                "imagePath": "sushi.jpg"
+            },
+            {
+                "name": "Cherry Blossoms",
+                "imagePath": "cherry_blossoms.jpg"
+            },
+            {
+                "name": "Bullet Trains",
+                "imagePath": "bullet_trains.jpg"
+            }
+        ]
+    },
+    {
+        "country": "Spain",
+        "capital": "Madrid",
+        "languages": ["Spanish"],
+        "features": [
+            {
+                "name": "Flamenco Dancing",
+                "imagePath": "flamenco.jpg"
+            },
+            {
+                "name": "Siesta",
+                "imagePath": "siesta.jpg"
+            },
+            {
+                "name": "Paella",
+                "imagePath": "paella.jpg"
+            }
+        ]
+    },
+    {
+        "country": "Argentina",
+        "capital": "Buenos Aires",
+        "languages": ["Spanish"],
+        "features": [
+            {
+                "name": "Tango Music and Dance",
+                "imagePath": "tango.jpg"
+            },
+            {
+                "name": "Pampas Grasslands",
+                "imagePath": "pampas.jpg"
+            },
+            {
+                "name": "Mate Tea",
+                "imagePath": "mate_tea.jpg"
+            }
+        ]
+    },
+    {
+        "country": "Greece",
+        "capital": "Athens",
+        "languages": ["Greek"],
+        "features": [
+            {
+                "name": "Ancient Ruins",
+                "imagePath": "ancient_ruins.jpg"
+            },
+            {
+                "name": "Olive Oil",
+                "imagePath": "olive_oil.jpg"
+            },
+            {
+                "name": "Greek Mythology",
+                "imagePath": "greek_mythology.jpg"
+            }
+        ]
+    },
+    {
+        "country": "Australia",
+        "capital": "Canberra",
+        "languages": ["English"],
+        "features": [
+            {
+                "name": "Great Barrier Reef",
+                "imagePath": "great_barrier_reef.jpg"
+            },
+            {
+                "name": "Kangaroos",
+                "imagePath": "kangaroos.jpg"
+            },
+            {
+                "name": "Ayers Rock",
+                "imagePath": "ayers_rock.jpg"
+            }
+        ]
+    },
+    {
+        "country": "Canada",
+        "capital": "Ottawa",
+        "languages": ["English", "French"],
+        "features": [
+            {
+                "name": "Maple Syrup",
+                "imagePath": "maple_syrup.jpg"
+            },
+            {
+                "name": "Ice Hockey",
+                "imagePath": "ice_hockey.jpg"
+            },
+            {
+                "name": "Rocky Mountains",
+                "imagePath": "rocky_mountains.jpg"
+            }
+        ]
+    },
+    {
+        "country": "Mexico",
+        "capital": "Mexico City",
+        "languages": ["Spanish"],
+        "features": [
+            {
+                "name": "Tacos",
+                "imagePath": "tacos.jpg"
+            },
+            {
+                "name": "Pyramids of Teotihuacan",
+                "imagePath": "teotihuacan.jpg"
+            },
+            {
+                "name": "Mariachi Music",
+                "imagePath": "mariachi_music.jpg"
+            }
+        ]
+    },
+    {
+        "country": "South Africa",
+        "capital": "Pretoria",
+        "languages": ["Afrikaans", "English", "Zulu", "Xhosa"],
+        "features": [
+            {
+                "name": "Safari Wildlife",
+                "imagePath": "safari_wildlife.jpg"
+            },
+            {
+                "name": "Table Mountain",
+                "imagePath": "table_mountain.jpg"
+            },
+            {
+                "name": "Nelson Mandela",
+                "imagePath": "nelson_mandela.jpg"
+            }
+        ]
+    },
+    {
+        "country": "Egypt",
+        "capital": "Cairo",
+        "languages": ["Arabic"],
+        "features": [
+            {
+                "name": "Pyramids of Giza",
+                "imagePath": "pyramids_of_giza.jpg"
+            },
+            {
+                "name": "Nile River",
+                "imagePath": "nile_river.jpg"
+            },
+            {
+                "name": "Hieroglyphics",
+                "imagePath": "hieroglyphics.jpg"
+            }
+        ]
+    },
+    {
+        "country": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "languages": ["Arabic"],
+        "features": [
+            {
+                "name": "Burj Khalifa",
+                "imagePath": "burj_khalifa.jpg"
+            },
+            {
+                "name": "Desert Landscapes",
+                "imagePath": "desert_landscapes.jpg"
+            },
+            {
+                "name": "Luxury Shopping",
+                "imagePath": "luxury_shopping.jpg"
+            }
+        ]
+    },
+    {
+        "country": "Italy",
+        "capital": "Rome",
+        "languages": ["Italian"],
+        "features": [
+            {
+                "name": "Colosseum",
+                "imagePath": "colosseum.jpg"
+            },
+            {
+                "name": "Pizza",
+                "imagePath": "pizza.jpg"
+            },
+            {
+                "name": "Renaissance Art",
+                "imagePath": "renaissance_art.jpg"
+            }
+        ]
+    }
+]
