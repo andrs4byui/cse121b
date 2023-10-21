@@ -74,7 +74,9 @@ h2 {
     text-align: center;
     margin-top: 30px;
 }
-
+p {
+    text-align: center;
+}
 main {
     margin-top: 125px;
     display: grid;
@@ -117,6 +119,15 @@ footer {
     bottom: 0;
 }
 
+article{
+    max-width: 100%;
+}
+img{
+    max-width: 400px;
+    max-height: 250px;
+}
+
+
 /* Class Selectors */
 .active {
     border-bottom: 1px solid yellow;
@@ -130,12 +141,44 @@ footer {
     display: block;
 }
 
-article{
-    max-width: 100%;
+/*Project Countries Page*/
+
+.countries-article{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    border: 1px solid #ddd;
+    padding: 50px;
+    text-align: center;
 }
-img{
-    max-width: 400px;
-    max-height: 250px;
+.country-card{
+    padding: 10px;
+}
+.country-card h3 {
+    grid-column: span 3; /* Expands h3 to all 3 columns */
+}
+
+.features-div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px; 
+    margin: 5px
+}
+
+.features-div div {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 30% 70%;
+    align-items: center;
+}
+
+.features-div div p {
+    grid-row: 1; /* The top 30% for the text */
+}
+
+.features-div div img {
+    grid-row: 2; /* The bottom 70% for the image */
+    max-width: 100%; /* Ensure the image fits within the div */
 }
 
 /* ID Selectors */

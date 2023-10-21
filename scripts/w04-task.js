@@ -23,9 +23,9 @@ const myProfile = {
 
 
 /* Populate Profile Object with placesLive objects */
-let boliviaFlag = "./images/bolivia_flag.png"
-let peruFlag = "./images/peru_flag.png"
-let chileFlag = "./images/chile_flag.png"
+let boliviaFlag = "./images/flags/bolivia_flag.png"
+let peruFlag = "./images/flags/peru_flag.png"
+let chileFlag = "./images/flags/chile_flag.png"
 myProfile.placesLived.push({
     flag: boliviaFlag,
     place : "Tupiza",

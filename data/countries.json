@@ -6,15 +6,15 @@
         "features": [
             {
                 "name": "Land of the Free",
-                "imagePath": "default.jpg"
+                "imagePath": "./images/country_features/Land_of_the_Free.jpg"
             },
             {
                 "name": "Hollywood",
-                "imagePath": "default.jpg"
+                "imagePath": "./images/country_features/hollywood.jpg"
             },
             {
                 "name": "Diverse Cuisine",
-                "imagePath": "default.jpg"
+                "imagePath": "./images/country_features/Diverse_Cuisine.jpg"
             }
         ]
     },
@@ -25,15 +25,15 @@
         "features": [
             {
                 "name": "Historic Landmarks",
-                "imagePath": "default.jpg"
+                "imagePath": "./images/country_features/Historic Landmarks.jpg"
             },
             {
                 "name": "Royalty",
-                "imagePath": "default.jpg"
+                "imagePath": "./images/country_features/Royalty.jpg"
             },
             {
                 "name": "Fish and Chips",
-                "imagePath": "default.jpg"
+                "imagePath": "./images/country_features/Fish_and_Chips.jpg"
             }
         ]
     },
@@ -44,15 +44,15 @@
         "features": [
             {
                 "name": "Eiffel Tower",
-                "imagePath": "eiffel_tower.jpg"
+                "imagePath": "./images/country_features/eiffel_tower.jpg"
             },
             {
                 "name": "Wine and Cheese",
-                "imagePath": "wine_and_cheese.jpg"
+                "imagePath": "./images/country_features/wine_and_cheese.jpg"
             },
             {
                 "name": "Fashion",
-                "imagePath": "fashion.jpg"
+                "imagePath": "./images/country_features/fashion.jpg"
             }
         ]
     },
@@ -63,15 +63,15 @@
         "features": [
             {
                 "name": "Sushi",
-                "imagePath": "sushi.jpg"
+                "imagePath": "./images/country_features/sushi.jpg"
             },
             {
                 "name": "Cherry Blossoms",
-                "imagePath": "cherry_blossoms.jpg"
+                "imagePath": "./images/country_features/cherry_blossoms.jpg"
             },
             {
                 "name": "Bullet Trains",
-                "imagePath": "bullet_trains.jpg"
+                "imagePath": "./images/country_features/bullet_trains.jpg"
             }
         ]
     },
@@ -82,15 +82,15 @@
         "features": [
             {
                 "name": "Flamenco Dancing",
-                "imagePath": "flamenco.jpg"
+                "imagePath": "./images/country_features/flamenco.jpg"
             },
             {
                 "name": "Siesta",
-                "imagePath": "siesta.jpg"
+                "imagePath": "./images/country_features/siesta.jpg"
             },
             {
                 "name": "Paella",
-                "imagePath": "paella.jpg"
+                "imagePath": "./images/country_features/paella.jpg"
             }
         ]
     },
@@ -101,15 +101,15 @@
         "features": [
             {
                 "name": "Tango Music and Dance",
-                "imagePath": "tango.jpg"
+                "imagePath": "./images/country_features/tango.jpg"
             },
             {
                 "name": "Pampas Grasslands",
-                "imagePath": "pampas.jpg"
+                "imagePath": "./images/country_features/pampas.jpg"
             },
             {
                 "name": "Mate Tea",
-                "imagePath": "mate_tea.jpg"
+                "imagePath": "./images/country_features/mate_tea.jpg"
             }
         ]
     },
@@ -120,15 +120,15 @@
         "features": [
             {
                 "name": "Ancient Ruins",
-                "imagePath": "ancient_ruins.jpg"
+                "imagePath": "./images/country_features/ancient_ruins.jpg"
             },
             {
                 "name": "Olive Oil",
-                "imagePath": "olive_oil.jpg"
+                "imagePath": "./images/country_features/olive_oil.jpg"
             },
             {
                 "name": "Greek Mythology",
-                "imagePath": "greek_mythology.jpg"
+                "imagePath": "./images/country_features/greek_mythology.jpg"
             }
         ]
     },
@@ -139,15 +139,15 @@
         "features": [
             {
                 "name": "Great Barrier Reef",
-                "imagePath": "great_barrier_reef.jpg"
+                "imagePath": "./images/country_features/great_barrier_reef.jpg"
             },
             {
                 "name": "Kangaroos",
-                "imagePath": "kangaroos.jpg"
+                "imagePath": "./images/country_features/kangaroos.jpg"
             },
             {
                 "name": "Ayers Rock",
-                "imagePath": "ayers_rock.jpg"
+                "imagePath": "./images/country_features/ayers_rock.jpg"
             }
         ]
     },
@@ -158,15 +158,15 @@
         "features": [
             {
                 "name": "Maple Syrup",
-                "imagePath": "maple_syrup.jpg"
+                "imagePath": "./images/country_features/maple_syrup.jpg"
             },
             {
                 "name": "Ice Hockey",
-                "imagePath": "ice_hockey.jpg"
+                "imagePath": "./images/country_features/ice_hockey.jpg"
             },
             {
                 "name": "Rocky Mountains",
-                "imagePath": "rocky_mountains.jpg"
+                "imagePath": "./images/country_features/rocky_mountains.jpg"
             }
         ]
     },
@@ -177,15 +177,15 @@
         "features": [
             {
                 "name": "Tacos",
-                "imagePath": "tacos.jpg"
+                "imagePath": "./images/country_features/tacos.jpg"
             },
             {
                 "name": "Pyramids of Teotihuacan",
-                "imagePath": "teotihuacan.jpg"
+                "imagePath": "./images/country_features/teotihuacan.jpg"
             },
             {
                 "name": "Mariachi Music",
-                "imagePath": "mariachi_music.jpg"
+                "imagePath": "./images/country_features/mariachi_music.jpg"
             }
         ]
     },
@@ -196,15 +196,15 @@
         "features": [
             {
                 "name": "Safari Wildlife",
-                "imagePath": "safari_wildlife.jpg"
+                "imagePath": "./images/country_features/safari_wildlife.jpg"
             },
             {
                 "name": "Table Mountain",
-                "imagePath": "table_mountain.jpg"
+                "imagePath": "./images/country_features/table_mountain.jpg"
             },
             {
                 "name": "Nelson Mandela",
-                "imagePath": "nelson_mandela.jpg"
+                "imagePath": "./images/country_features/nelson_mandela.jpg"
             }
         ]
     },
@@ -215,15 +215,15 @@
         "features": [
             {
                 "name": "Pyramids of Giza",
-                "imagePath": "pyramids_of_giza.jpg"
+                "imagePath": "./images/country_features/pyramids_of_giza.jpg"
             },
             {
                 "name": "Nile River",
-                "imagePath": "nile_river.jpg"
+                "imagePath": "./images/country_features/nile_river.jpg"
             },
             {
                 "name": "Hieroglyphics",
-                "imagePath": "hieroglyphics.jpg"
+                "imagePath": "./images/country_features/hieroglyphics.jpg"
             }
         ]
     },
@@ -234,15 +234,15 @@
         "features": [
             {
                 "name": "Burj Khalifa",
-                "imagePath": "burj_khalifa.jpg"
+                "imagePath": "./images/country_features/burj_khalifa.jpg"
             },
             {
                 "name": "Desert Landscapes",
-                "imagePath": "desert_landscapes.jpg"
+                "imagePath": "./images/country_features/desert_landscapes.jpg"
             },
             {
                 "name": "Luxury Shopping",
-                "imagePath": "luxury_shopping.jpg"
+                "imagePath": "./images/country_features/luxury_shopping.jpg"
             }
         ]
     },
@@ -253,15 +253,15 @@
         "features": [
             {
                 "name": "Colosseum",
-                "imagePath": "colosseum.jpg"
+                "imagePath": "./images/country_features/colosseum.jpg"
             },
             {
                 "name": "Pizza",
-                "imagePath": "pizza.jpg"
+                "imagePath": "./images/country_features/pizza.jpg"
             },
             {
                 "name": "Renaissance Art",
-                "imagePath": "renaissance_art.jpg"
+                "imagePath": "./images/country_features/renaissance_art.jpg"
             }
         ]
     }
